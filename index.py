@@ -31,16 +31,16 @@
 # for i in range(len(str)+1):
 #             count += 1;
 # print(count);
-"""
-6
-16
-17
-4
-3
-5
-2
-"""
-""" [1,2,3,4,5,6,7], 3 inputs for function """
+# """
+# 6
+# 16
+# 17
+# 4
+# 3
+# 5
+# 2
+# """
+# """ [1,2,3,4,5,6,7], 3 inputs for function """
 
 
 # def find_leaders(A):
